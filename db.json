@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Альдераан",
+    "latitude": 59.9573,
+    "longitude": 30.3485
+  },
+  {
+    "id": 2,
+    "name": "Беспин",
+    "latitude": 60.0025,
+    "longitude": 30.3113
+  },
+  {
+    "id": 3,
+    "name": "Дагоба",
+    "latitude": 59.9485,
+    "longitude": 30.3857
+  },
+  {
+    "id": 4,
+    "name": "Корусант",
+    "latitude": 59.9894,
+    "longitude": 30.2587
+  },
+  {
+    "id": 5,
+    "name": "Мустафар",
+    "latitude": 59.8836,
+    "longitude": 30.3575
+  }
+]
